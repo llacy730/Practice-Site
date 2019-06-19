@@ -1,0 +1,86 @@
+body{
+    background-color: white;
+    background-image: url(img/background.jpg);
+    background-position: bottom right;
+}
+
+.codetext{
+    
+    font-family: 'VT323', monospace;
+    font-size:20px;
+    color:#1178cf;
+    cursor: pointer;
+}
+.navtext{
+    float: left;
+    text-align: left;
+}  
+.codetext:hover{
+    opacity: 1;
+    color: hotpink;
+}
+.pinktext{color:hotpink;}
+p{
+    margin:10px 10px;
+    padding: 10px 10px;
+    font-size: 15px;
+}
+h2{
+    font-family: 'VT323', monospace;
+    font-size: 55px;
+  margin:10px 10px;
+    padding: 10px 10px;  
+}
+.navbar-brand{ 
+    color: #1178cf;
+     font-family: 'VT323', monospace;
+    align-content: flex-start;
+}
+.navbar-toggler{
+text-align:left;
+}
+.jumbotron{
+    color: white;
+    font-family: 'VT323', monospace;
+    background-color: hotpink;
+    background-size: cover;
+}
+.col{
+    color: white;
+    font-family: 'Trirong', serif;
+    font-weight: 400;
+    font-size: 45px;
+    margin: 0px 15px;
+    padding: 0px 15px;
+    vertical-align:text-bottom;
+    background-color: #1178cf;
+}
+.col2{
+    color: #162656;
+    background-color: white;
+    
+}
+img{
+    float:right;
+    vertical-align: middle;
+}
+.fimg{
+ float: none;
+    left: auto;
+}
+.ccol3{
+    background-color: #fff;
+}
+footer{
+    background-color: white;
+    font-family: 'VT323', monospace;
+    color: hotpink;
+    font-size: 35px;
+    margin: 0px 10px;
+    padding: 20px 0px;
+    height: 150px;
+    text-align: center;
+    align-content: center;
+    border-bottom: 10px solid #1178cf;
+    background-color: #fff;
+}
